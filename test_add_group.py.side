@@ -1,0 +1,21 @@
+{
+  "id": "f0d9012f-1385-46e1-a599-c84a76bc21f9",
+  "version": "2.0",
+  "name": "test_add_group.py",
+  "url": "",
+  "tests": [{
+    "id": "d83a7c10-17bf-4ae8-b827-1b7dcaa986d0",
+    "name": "test_add_group.py",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "ccf0a687-7a0c-465e-a336-538adefa94df",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d83a7c10-17bf-4ae8-b827-1b7dcaa986d0"]
+  }],
+  "urls": [],
+  "plugins": []
+}
